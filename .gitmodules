@@ -1,0 +1,12 @@
+[submodule "Assigment/python-converter"]
+	path = Assigment/python-converter
+	url = https://github.com/dakdeung/python-converter.git
+[submodule "Assignment/python-converter"]
+	path = Assignment/python-converter
+	url = https://github.com/dakdeung/python-converter.git
+[submodule "Assignment/h80cbc_deployment"]
+	path = Assignment/h80cbc_deployment
+	url = https://github.com/dakdeung/h8ocbc_deploy.git
+[submodule "Assignment/h8ocbc_deployment"]
+	path = Assignment/h8ocbc_deployment
+	url = https://github.com/dakdeung/h8ocbc_deploy.git
